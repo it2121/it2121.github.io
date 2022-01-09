@@ -158,7 +158,7 @@
                 </div>
                 <div class="waypoint" data-animation="fade-in" data-delay=".4s">
                   <div class="label bold">Intuitive</div>
-                  <div>Strong preference for easy to use, intuitive UX/UI.</div>
+                  <div>Writing Complex Systems With Flexible and Easy to Adapt Coding Style.</div>
                 </div>
               </div>
 
